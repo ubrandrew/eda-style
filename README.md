@@ -1,2 +1,2 @@
 # eda-style
-Playing around with event driven architecture
+Experimenting with event driven architectures using Kafka
